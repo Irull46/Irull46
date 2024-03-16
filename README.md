@@ -2,8 +2,10 @@
 
 Perkenalkan nama saya **Khairul Anam**.<br>
 
-Saya **Fresh Graduate** dari [Universitas Islam Madura](https://www.uim.ac.id/).<br>
+Lulusan S1 Teknik Informatika dengan IPK 3,46.
+Memiliki fokus yang kuat pada pengembangan web dengan keahlian bahasa pemrograman [PHP](https://www.php.net/) dan [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript).
+Memiliki pengalaman dalam penggunaan [Git](https://git-scm.com/) dan [GitHub](https://github.com/) untuk manajemen kode.<br>
 
-> Projek yang pernah saya bangun adalah [Antrian Digital BAAK UIM](https://github.com/Irull46/Antrian-BAAK-UIM/).<br>
+> Project yang pernah saya bangun adalah [Antrian Digital BAAK UIM](https://github.com/Irull46/Antrian-BAAK-UIM/) dan [Parkir Pintar](https://gitlab.com/Irull46/parkir-pintar).<br>
 
-> Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/khairulanam123/)ku ya.
+> Jika anda tertarik untuk berkenalan dengan saya, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/khairulanam123/) saya ya.
